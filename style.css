@@ -1,0 +1,31 @@
+/* ID selector */
+#main-heading {
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px 0;
+  }
+  
+  /* Class selector */
+  .description {
+    color: green;
+    font-family: 'Courier New', monospace;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  /* Element selector */
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Style for image */
+  .my-image {
+    width: 200px;
+    border: 3px dashed purple;
+    margin: 15px;
+    padding: 5px;
+  }
+  
